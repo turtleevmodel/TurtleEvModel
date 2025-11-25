@@ -1,0 +1,9 @@
+2025-11-25 04:00:12,283 - INFO - ======================================================================
+2025-11-25 04:00:12,283 - INFO - STARTING DOTA 2 DATA PIPELINE
+2025-11-25 04:00:12,283 - INFO - ======================================================================
+2025-11-25 04:00:12,324 - INFO - Database setup complete
+2025-11-25 04:00:12,325 - INFO - Fetching pro player database...
+2025-11-25 04:00:12,617 - ERROR - Failed to fetch pro players: invalid literal for int() with base 10: '2025-11-24T07:45:47.000Z'
+2025-11-25 04:00:12,618 - INFO - Fetching Underdog Dota props...
+2025-11-25 04:00:13,071 - INFO - Found 0 unique Dota players
+2025-11-25 04:00:13,072 - WARNING - No Underdog players found
